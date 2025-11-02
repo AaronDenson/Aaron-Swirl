@@ -22,11 +22,17 @@ h1 {
 marquee{
     font-family: cursive;
     color: cyan; 
-  text-shadow: 0 0 10px cyan, 
-               0 0 20px cyan,
-               0 0 30px cyan;
+  text-shadow: 0 0 50px cyan;
     font-size: 25px
 }
+
+div{
+    text-align: center;
+}
+a img:hover {
+            transform: scale(1.15);
+            transition: transform 0.5s ease;
+        }
 
 
 
