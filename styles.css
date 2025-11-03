@@ -33,6 +33,16 @@ a img:hover {
             transform: scale(1.15);
             transition: transform 0.5s ease;
         }
+.icecreamoption{
+    text-align: left;
+}
+.cookieoption{
+    text-align: center;
+}
+.whitecolor{
+    color: white;
+    font-family: cursive;
+}
 
 
 
