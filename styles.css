@@ -32,7 +32,7 @@ table{
 }
 td, th {
     font-family: cursive;
-    border: 1px solid red;
+    border: 5px solid red;
     background-color: white;
     text-align: center;
 }
