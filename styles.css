@@ -17,7 +17,13 @@ h1 {
     font-family: cursive;
     font-size: 20px;
  }
-
+#cool{
+    text-align: center;
+    padding: 3px;
+    background-color: Blue;
+    color: white;
+    font-family: Times New Roman;
+}
 table{
     text-align: center;
     float: center;
@@ -36,7 +42,13 @@ marquee{
   text-shadow: 0 0 50px cyan;
     font-size: 25px
 }
-
+ul{
+    color: white;
+    text-decoration: bold;
+    font-family: cursive;
+    text-align: left;
+    background-color: darkblue;
+}
 div{
     text-align: center;
 }
@@ -53,6 +65,7 @@ img:hover {
 .whitecolor{
     color: white;
     font-family: cursive;
+    font-size: 20px;
 }
 
 
